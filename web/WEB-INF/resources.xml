@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <Resource id="jdbc/sampleds" type="javax.sql.DataSource">#Wed May 03 11:32:03 CDT 2017
+jdbcDriver=com.mysql.jdbc.Driver
+password=nbdev
+userName=nbdev
+jdbcUrl=jdbc\:mysql\://localhost\:3306/derby_sample_mod?zeroDateTimeBehavior\=convertToNull
+</Resource>
+</resources>

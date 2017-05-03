@@ -49,8 +49,7 @@ public class MicroMarketController extends AbstractController<MicroMarket> {
 
     /**
      * Sets the "items" attribute with a collection of Customer entities that
-     * are retrieved from MicroMarket?cap_first and returns the navigation
-     * outcome.
+     * are retrieved from MicroMarket and returns the navigation outcome.
      *
      * @return navigation outcome for Customer page
      */

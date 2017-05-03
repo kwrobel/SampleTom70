@@ -62,8 +62,7 @@ public class CustomerController extends AbstractController<Customer> {
 
     /**
      * Sets the "items" attribute with a collection of PurchaseOrder entities
-     * that are retrieved from Customer?cap_first and returns the navigation
-     * outcome.
+     * that are retrieved from Customer and returns the navigation outcome.
      *
      * @return navigation outcome for PurchaseOrder page
      */

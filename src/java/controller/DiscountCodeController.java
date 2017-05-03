@@ -49,8 +49,7 @@ public class DiscountCodeController extends AbstractController<DiscountCode> {
 
     /**
      * Sets the "items" attribute with a collection of Customer entities that
-     * are retrieved from DiscountCode?cap_first and returns the navigation
-     * outcome.
+     * are retrieved from DiscountCode and returns the navigation outcome.
      *
      * @return navigation outcome for Customer page
      */

@@ -49,7 +49,7 @@ public class ProductCodeController extends AbstractController<ProductCode> {
 
     /**
      * Sets the "items" attribute with a collection of Product entities that are
-     * retrieved from ProductCode?cap_first and returns the navigation outcome.
+     * retrieved from ProductCode and returns the navigation outcome.
      *
      * @return navigation outcome for Product page
      */

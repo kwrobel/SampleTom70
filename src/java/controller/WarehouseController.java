@@ -49,7 +49,7 @@ public class WarehouseController extends AbstractController<Warehouse> {
 
     /**
      * Sets the "items" attribute with a collection of Product entities that are
-     * retrieved from Warehouse?cap_first and returns the navigation outcome.
+     * retrieved from Warehouse and returns the navigation outcome.
      *
      * @return navigation outcome for Product page
      */

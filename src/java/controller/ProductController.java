@@ -65,7 +65,7 @@ public class ProductController extends AbstractController<Product> {
 
     /**
      * Sets the "items" attribute with a collection of Warehouse entities that
-     * are retrieved from Product?cap_first and returns the navigation outcome.
+     * are retrieved from Product and returns the navigation outcome.
      *
      * @return navigation outcome for Warehouse page
      */
@@ -122,8 +122,7 @@ public class ProductController extends AbstractController<Product> {
 
     /**
      * Sets the "items" attribute with a collection of PurchaseOrder entities
-     * that are retrieved from Product?cap_first and returns the navigation
-     * outcome.
+     * that are retrieved from Product and returns the navigation outcome.
      *
      * @return navigation outcome for PurchaseOrder page
      */

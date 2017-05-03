@@ -49,7 +49,7 @@ public class ManufacturerController extends AbstractController<Manufacturer> {
 
     /**
      * Sets the "items" attribute with a collection of Product entities that are
-     * retrieved from Manufacturer?cap_first and returns the navigation outcome.
+     * retrieved from Manufacturer and returns the navigation outcome.
      *
      * @return navigation outcome for Product page
      */
